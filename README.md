@@ -15,7 +15,7 @@ Slotify is an online music player like Spotify, built using HTML, CSS, JavaScrip
 ## Installation
 
 ```shell
-# Clone the repository
+#Clone the repository
 git clone https://github.com/jeevsssss/slotify.git
 
 # Set up the database
@@ -31,15 +31,14 @@ git clone https://github.com/jeevsssss/slotify.git
 
 ```
 ## Usage
-```
-# Launch the Slotify application in your web browser.
-# Register a new account or log in with your existing account.
-# Upload your music files to the music library.
-# Create playlists and add songs to them.
-# Search for songs, albums, and artists using the search functionality.
-# Play, pause, skip, and control the volume of the music playback.
 
-```
+-Launch the Slotify application in your web browser.
+-Register a new account or log in with your existing account.
+-Upload your music files to the music library.
+-Create playlists and add songs to them.
+-Search for songs, albums, and artists using the search functionality.
+-Play, pause, skip, and control the volume of the music playback.
+
 ## Technologies Used
 
 - HTML
